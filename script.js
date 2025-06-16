@@ -251,7 +251,7 @@ function createCardsForLevel(level) {
   grid.innerHTML = ''; 
 
   let totalCards;
-  if (level === 'easy') totalCards = 12;
+  if (level === 'easy') totalCards = 8;
   else if (level === 'medium') totalCards = 12; 
   else totalCards = 24;                    
 

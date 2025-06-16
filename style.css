@@ -255,7 +255,7 @@ right:46%;
 }
 .grid.easy {
   grid-template-columns: repeat(4, 120px);
-  grid-template-rows: repeat(3, 120px);
+  grid-template-rows: repeat(2, 120px);
 }
 .grid.medium {
   grid-template-columns: repeat(4, 120px);
